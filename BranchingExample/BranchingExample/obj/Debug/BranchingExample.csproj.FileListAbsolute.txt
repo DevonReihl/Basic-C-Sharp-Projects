@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExample\BranchingExample\bin\Debug\BranchingExample.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExample\BranchingExample\bin\Debug\BranchingExample.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExample\BranchingExample\bin\Debug\BranchingExample.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExample\BranchingExample\obj\Debug\BranchingExample.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExample\BranchingExample\obj\Debug\BranchingExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExample\BranchingExample\obj\Debug\BranchingExample.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExample\BranchingExample\obj\Debug\BranchingExample.pdb
