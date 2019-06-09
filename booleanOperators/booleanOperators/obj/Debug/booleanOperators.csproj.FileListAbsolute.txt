@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\booleanOperators\booleanOperators\bin\Debug\booleanOperators.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\booleanOperators\booleanOperators\bin\Debug\booleanOperators.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\booleanOperators\booleanOperators\bin\Debug\booleanOperators.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\booleanOperators\booleanOperators\obj\Debug\booleanOperators.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\booleanOperators\booleanOperators\obj\Debug\booleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\booleanOperators\booleanOperators\obj\Debug\booleanOperators.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\booleanOperators\booleanOperators\obj\Debug\booleanOperators.pdb
