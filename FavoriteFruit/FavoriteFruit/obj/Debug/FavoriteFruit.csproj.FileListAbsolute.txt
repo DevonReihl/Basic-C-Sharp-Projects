@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\FavoriteFruit\FavoriteFruit\bin\Debug\FavoriteFruit.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\FavoriteFruit\FavoriteFruit\bin\Debug\FavoriteFruit.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\FavoriteFruit\FavoriteFruit\bin\Debug\FavoriteFruit.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\FavoriteFruit\FavoriteFruit\obj\Debug\FavoriteFruit.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\FavoriteFruit\FavoriteFruit\obj\Debug\FavoriteFruit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\FavoriteFruit\FavoriteFruit\obj\Debug\FavoriteFruit.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\FavoriteFruit\FavoriteFruit\obj\Debug\FavoriteFruit.pdb

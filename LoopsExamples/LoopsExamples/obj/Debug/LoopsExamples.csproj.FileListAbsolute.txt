@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExamples\LoopsExamples\bin\Debug\LoopsExamples.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExamples\LoopsExamples\bin\Debug\LoopsExamples.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExamples\LoopsExamples\bin\Debug\LoopsExamples.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExamples\LoopsExamples\obj\Debug\LoopsExamples.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExamples\LoopsExamples\obj\Debug\LoopsExamples.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExamples\LoopsExamples\obj\Debug\LoopsExamples.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExamples\LoopsExamples\obj\Debug\LoopsExamples.pdb

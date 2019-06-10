@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\GuessMyName\GuessMyName\bin\Debug\GuessMyName.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\GuessMyName\GuessMyName\bin\Debug\GuessMyName.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\GuessMyName\GuessMyName\bin\Debug\GuessMyName.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\GuessMyName\GuessMyName\obj\Debug\GuessMyName.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\GuessMyName\GuessMyName\obj\Debug\GuessMyName.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\GuessMyName\GuessMyName\obj\Debug\GuessMyName.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\GuessMyName\GuessMyName\obj\Debug\GuessMyName.pdb
