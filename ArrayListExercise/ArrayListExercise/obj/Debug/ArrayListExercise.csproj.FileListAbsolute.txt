@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayListExercise\ArrayListExercise\obj\Debug\ArrayListExercise.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayListExercise\ArrayListExercise\obj\Debug\ArrayListExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayListExercise\ArrayListExercise\bin\Debug\ArrayListExercise.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayListExercise\ArrayListExercise\bin\Debug\ArrayListExercise.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayListExercise\ArrayListExercise\bin\Debug\ArrayListExercise.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayListExercise\ArrayListExercise\obj\Debug\ArrayListExercise.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayListExercise\ArrayListExercise\obj\Debug\ArrayListExercise.pdb
