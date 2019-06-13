@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ListExceptions\ListExceptions\bin\Debug\ListExceptions.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ListExceptions\ListExceptions\bin\Debug\ListExceptions.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ListExceptions\ListExceptions\bin\Debug\ListExceptions.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ListExceptions\ListExceptions\obj\Debug\ListExceptions.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ListExceptions\ListExceptions\obj\Debug\ListExceptions.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ListExceptions\ListExceptions\obj\Debug\ListExceptions.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ListExceptions\ListExceptions\obj\Debug\ListExceptions.pdb
