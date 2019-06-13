@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\IterationExercise\IterationExercise\bin\Debug\IterationExercise.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\IterationExercise\IterationExercise\bin\Debug\IterationExercise.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\IterationExercise\IterationExercise\bin\Debug\IterationExercise.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\IterationExercise\IterationExercise\obj\Debug\IterationExercise.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\IterationExercise\IterationExercise\obj\Debug\IterationExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\IterationExercise\IterationExercise\obj\Debug\IterationExercise.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\IterationExercise\IterationExercise\obj\Debug\IterationExercise.pdb
