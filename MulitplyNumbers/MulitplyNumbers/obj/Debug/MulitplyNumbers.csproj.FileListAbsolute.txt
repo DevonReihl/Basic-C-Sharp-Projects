@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\MulitplyNumbers\MulitplyNumbers\bin\Debug\MulitplyNumbers.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\MulitplyNumbers\MulitplyNumbers\bin\Debug\MulitplyNumbers.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\MulitplyNumbers\MulitplyNumbers\bin\Debug\MulitplyNumbers.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\MulitplyNumbers\MulitplyNumbers\obj\Debug\MulitplyNumbers.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\MulitplyNumbers\MulitplyNumbers\obj\Debug\MulitplyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\MulitplyNumbers\MulitplyNumbers\obj\Debug\MulitplyNumbers.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\MulitplyNumbers\MulitplyNumbers\obj\Debug\MulitplyNumbers.pdb
