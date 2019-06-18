@@ -8,15 +8,14 @@ namespace VehicleTravel
 {
     class Program
     {
-        public Program() // instantiates the class??
+        static void Main(string[] args)
         {
-            MilesTraveled milesTraveled = new MilesTraveled();
-            float hours = 0;
-
+            MilesTraveled milesTraveled = new MilesTraveled(); // instantiates the class
+            milesTraveled.computeMilesTraveled(speed: 30, hours: 4);
 
         }
 
     }
 }
 
-}
+

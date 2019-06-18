@@ -10,12 +10,22 @@ namespace VehicleTravel
     {
         
 
-        //Calculate how many hours they have driven
-        public static void milesTraveled(int speed, int miles)
-        {
-            float hours = miles / speed;
-            Console.WriteLine(speed);
-        }
+        //Method to calculate how many hours they have driven
+
         
+        public void computeMilesTraveled(int speed, int hours)
+        {
+            int miles = speed * hours;
+            Console.WriteLine(miles);
+            Console.ReadLine();
+        }
+
+        //public static void staticComputeMilesTraveled(int speed, int hours)
+        //{
+        //    int miles = speed * hours;
+        //    Console.WriteLine(miles);
+        //    Console.ReadLine();
+        //}
+
     }
 }
