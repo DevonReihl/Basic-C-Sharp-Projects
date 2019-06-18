@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\evenOrOdd\evenOrOdd\bin\Debug\evenOrOdd.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\evenOrOdd\evenOrOdd\bin\Debug\evenOrOdd.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\evenOrOdd\evenOrOdd\bin\Debug\evenOrOdd.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\evenOrOdd\evenOrOdd\obj\Debug\evenOrOdd.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\evenOrOdd\evenOrOdd\obj\Debug\evenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\evenOrOdd\evenOrOdd\obj\Debug\evenOrOdd.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\evenOrOdd\evenOrOdd\obj\Debug\evenOrOdd.pdb
