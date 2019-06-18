@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\VehicleTravel\VehicleTravel\bin\Debug\VehicleTravel.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\VehicleTravel\VehicleTravel\bin\Debug\VehicleTravel.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\VehicleTravel\VehicleTravel\bin\Debug\VehicleTravel.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\VehicleTravel\VehicleTravel\obj\Debug\VehicleTravel.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\VehicleTravel\VehicleTravel\obj\Debug\VehicleTravel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\VehicleTravel\VehicleTravel\obj\Debug\VehicleTravel.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\VehicleTravel\VehicleTravel\obj\Debug\VehicleTravel.pdb
