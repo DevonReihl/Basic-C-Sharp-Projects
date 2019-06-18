@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="evenOrOdd examples.cs" />
     <Compile Include="evenOrOdd.cs" />
-    <Compile Include="evenOrOddExamples.cs" />
+    <Compile Include="evenOrOddInput.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

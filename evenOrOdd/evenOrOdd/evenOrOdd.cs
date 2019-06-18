@@ -15,6 +15,9 @@ namespace evenOrOdd
 
             if (results2 == 0)
             {
+                //==========================================
+                //Evaluates input for even and give examples
+                //==========================================
                 Console.WriteLine("Your number divided by two is: " + results);
                 Console.WriteLine("You entered an even number.");
 
@@ -44,6 +47,9 @@ namespace evenOrOdd
 
             }
             else
+            //==========================================
+            // Evaluates for odd and give examples
+            //==========================================
             {
                 Console.WriteLine("Your number divided by two is: " + results);
                 Console.WriteLine("You entered an odd number.");
