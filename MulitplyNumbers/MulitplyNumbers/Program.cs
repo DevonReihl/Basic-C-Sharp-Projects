@@ -19,9 +19,23 @@ namespace MulitplyNumbers
             Console.WriteLine("Please enter one or two numbers one at a time \nEnter first number:");
             int num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter a second number if you want to.");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            string optionalNum = Console.ReadLine();
 
-            Console.WriteLine("Your numbers multiplied together is: " + inputs.multiplyInputs(num1, num2));
+            {
+                if (String.IsNullOrEmpty(optionalNum))
+                {
+                    Console.WriteLine("Your number multiplied by 1 is: " + inputs.multiplyInputs(num1, num2));
+                }
+                    
+                else
+                {
+                    num2 = Convert.ToInt32(optionalNum);
+                    Console.WriteLine("Your numbers multiplied together is: " + inputs.multiplyInputs(num1, num2));
+                }
+                    
+            }
+
+            
             Console.ReadLine();
         }   
         
