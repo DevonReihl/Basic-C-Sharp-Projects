@@ -21,15 +21,16 @@ namespace evenOrOdd
             if (int.TryParse(userInput, out result))
             {
                  num = result;
-                //Console.WriteLine(evenOrOddInput.response(userInput)); not working
+                evenOrOddInput.response(num);
+                evenOrOdd.calculateEvenOrOdd(num);
             }
             else
             {
-                //Console.WriteLine(evenOrOddInput.response(num)); not working
+                evenOrOddInput.response(userInput);
             }
             
 
-            evenOrOdd.calculateEvenOrOdd(num);
+            
             Console.ReadLine();
         }
     }
