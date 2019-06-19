@@ -18,6 +18,7 @@ namespace TwentyOne
             //game.Players = new List<string>() { "Jesse", "Bill", "Mary" };
             //game.ListPlayers();
             //Console.ReadLine();
+            Game game = new TwentyOneGame(); // poly morphism
 
 
             Deck deck = new Deck();
