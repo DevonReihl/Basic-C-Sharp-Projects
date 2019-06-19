@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace Identification
 {
-    public class Employee : Person // inhertance from Person
+    public class Employee : Person, IQuittable // inhertance from Person
     {
         public int Id { get; set; }
+
+        public void Quit()
+        {
+            Console.WriteLine("I QUIT!!!");
+        }
+
     }
 }

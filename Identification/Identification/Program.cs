@@ -14,7 +14,10 @@ namespace Identification
             employee.FirstName = "Sample";  
             employee.LastName = "Student"; 
 
-            employee.SayName(); 
+            employee.SayName();
+            IQuittable employee2 = new Employee();
+            employee2 = employee;
+            employee.Quit();
             Console.ReadLine();
         }
     }
