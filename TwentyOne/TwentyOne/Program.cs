@@ -18,12 +18,18 @@ namespace TwentyOne
             //game.Players = new List<string>() { "Jesse", "Bill", "Mary" };
             //game.ListPlayers();
             //Console.ReadLine();
-           
+
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game += player; //(game = game + player;) is the same 
+            game -= player;
+
 
 
             Deck deck = new Deck();
-
-            deck.Shuffle();
+            deck.Shuffle(3);
 
             foreach (Card card in deck.Cards)
             {
@@ -33,9 +39,6 @@ namespace TwentyOne
             //Console.WriteLine("Times shuffled: {0} times", timesShuffled); //{0}, var easy way to pass variable into string
             Console.ReadLine();
         }
-
-
-
        
     }
 }
