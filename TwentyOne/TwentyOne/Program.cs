@@ -14,19 +14,9 @@ namespace TwentyOne
             //Instantiate class and call method
             //=================================
 
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Mary" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player; //(game = game + player;) is the same 
-            game -= player;
-
-
+            
+            //Player<Card> player = new Player<Card>();
+            // player.Hand = new List<Card>();
 
             Deck deck = new Deck();
             deck.Shuffle(3);
