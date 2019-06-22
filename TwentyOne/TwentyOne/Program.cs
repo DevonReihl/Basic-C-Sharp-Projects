@@ -14,9 +14,11 @@ namespace TwentyOne
             //Instantiate class and call method
             //=================================
 
+
+            //Player<Card> player = new Player<Card>(); generic
+            // player.Hand = new List<Card>(); generic
+
             
-            //Player<Card> player = new Player<Card>();
-            // player.Hand = new List<Card>();
 
             Deck deck = new Deck();
             deck.Shuffle(3);

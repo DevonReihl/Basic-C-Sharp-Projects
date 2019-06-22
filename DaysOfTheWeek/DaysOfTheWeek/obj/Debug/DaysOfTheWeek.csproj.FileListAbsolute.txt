@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb
