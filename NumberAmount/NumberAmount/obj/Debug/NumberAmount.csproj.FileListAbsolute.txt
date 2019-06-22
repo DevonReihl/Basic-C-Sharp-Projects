@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\NumberAmount\NumberAmount\bin\Debug\NumberAmount.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\NumberAmount\NumberAmount\bin\Debug\NumberAmount.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\NumberAmount\NumberAmount\bin\Debug\NumberAmount.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\NumberAmount\NumberAmount\obj\Debug\NumberAmount.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\NumberAmount\NumberAmount\obj\Debug\NumberAmount.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\NumberAmount\NumberAmount\obj\Debug\NumberAmount.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\NumberAmount\NumberAmount\obj\Debug\NumberAmount.pdb
