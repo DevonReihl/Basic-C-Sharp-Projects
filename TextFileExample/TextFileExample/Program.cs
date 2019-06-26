@@ -16,7 +16,7 @@ namespace TextFileExample
             Console.WriteLine("Please give me a number to file.");
             double fileNumber = Convert.ToDouble(Console.ReadLine());
             var futureTime = currentTime.AddHours(fileNumber);
-            Console.WriteLine(futureTime);
+            Console.WriteLine("The time will be " +futureTime+ " if we add your number as hours.");
             Console.WriteLine();
             Console.ReadLine();
         }
