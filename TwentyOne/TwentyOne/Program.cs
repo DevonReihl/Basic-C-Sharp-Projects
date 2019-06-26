@@ -16,6 +16,12 @@ namespace TwentyOne
 
             //string text = File.ReadAllText(@"C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\log.txt");
 
+            //Date time and timestamp examples
+            DateTime dateTime = new DateTime(2018, 6, 26);
+            DateTime yearOfBirth = new DateTime(2000, 6, 26);
+            DateTime yearOfGraduation = new DateTime(2013, 5, 15);
+
+            TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
 
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by giving me your name.");

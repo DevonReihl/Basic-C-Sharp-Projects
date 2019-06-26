@@ -11,10 +11,13 @@ namespace TextFileExample
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(DateTime.Now);
+            var currentTime = DateTime.Now;
             Console.WriteLine("Please give me a number to file.");
-            string fileNumber = Console.ReadLine();
-            File.WriteAllText(@"C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\log.txt", fileNumber);
-            Console.WriteLine(fileNumber);
+            double fileNumber = Convert.ToDouble(Console.ReadLine());
+            var futureTime = currentTime.AddHours(fileNumber);
+            Console.WriteLine(futureTime);
+            Console.WriteLine();
             Console.ReadLine();
         }
     }
