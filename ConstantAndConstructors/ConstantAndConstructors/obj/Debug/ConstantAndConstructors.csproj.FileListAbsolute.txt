@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantAndConstructors\ConstantAndConstructors\bin\Debug\ConstantAndConstructors.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantAndConstructors\ConstantAndConstructors\bin\Debug\ConstantAndConstructors.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantAndConstructors\ConstantAndConstructors\bin\Debug\ConstantAndConstructors.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantAndConstructors\ConstantAndConstructors\obj\Debug\ConstantAndConstructors.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantAndConstructors\ConstantAndConstructors\obj\Debug\ConstantAndConstructors.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantAndConstructors\ConstantAndConstructors\obj\Debug\ConstantAndConstructors.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantAndConstructors\ConstantAndConstructors\obj\Debug\ConstantAndConstructors.pdb
