@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\TextFileExample\TextFileExample\bin\Debug\TextFileExample.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\TextFileExample\TextFileExample\bin\Debug\TextFileExample.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\TextFileExample\TextFileExample\bin\Debug\TextFileExample.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\TextFileExample\TextFileExample\obj\Debug\TextFileExample.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\TextFileExample\TextFileExample\obj\Debug\TextFileExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\TextFileExample\TextFileExample\obj\Debug\TextFileExample.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\TextFileExample\TextFileExample\obj\Debug\TextFileExample.pdb
