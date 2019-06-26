@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,46 +11,33 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            //=================================
-            //Instantiate class and call method
-            //=================================
+            //string text = "here is some text.";
+            //File.WriteAllText(@"C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\log.txt", text);
 
-            Deck deck = new Deck();
+            //string text = File.ReadAllText(@"C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\log.txt");
 
-            //int counter = 0;
-            //foreach (Card card in deck.Cards)
-            //{
-            //    if (card.Face == Face.Ace)
-            //    {
-            //        counter++;
-            //    }
-            //}  // in efficient but example
 
-            int count = deck.Cards.Count(x => x.Face == Face.Ace); //Lambda function => means "where"
 
-            Console.WriteLine(count);
-
-            List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-
-            foreach (Card card in newList)
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by giving me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("Hi, {0} and how much money did you bring to play with today?", playerName);
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Would you like to join a game of 21 right now?");
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "ya" || answer == "yeah" || answer == "y")
             {
-                Console.WriteLine(card.Face);
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
             }
-
-            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
-
-            int sum = numberList.Where(x => x > 20).Sum();
-
-            Console.WriteLine(sum);
-            
-            //deck.Shuffle(3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.WriteLine("Times shuffled: {0} times", timesShuffled); //{0}, var easy way to pass variable into string
+            Console.WriteLine("Feel free to come back and play at anytime.");
             Console.ReadLine();
         }
        
