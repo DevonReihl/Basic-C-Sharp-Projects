@@ -15,9 +15,24 @@ namespace TwentyOne
 
             Console.WriteLine("Welcome to the {0}. Let's start by giving me your name.", casinoName);
             string playerName = Console.ReadLine();
-            Console.WriteLine("Hi, {0} and how much money did you bring to play with today?", playerName);
-            int bank = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Would you like to join a game of 21 right now?");
+
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("Hi, {0} and how much money did you bring to play with today?", playerName);
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no cents.");
+            }
+            if (bank < 0)
+            {
+                Console.WriteLine("Please come back when you have money to spend.");
+            }
+            else
+            {
+                Console.WriteLine("Would you like to join a game of 21 right now?");
+            }
+            
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "ya" || answer == "yeah" || answer == "y")
             {
@@ -32,10 +47,27 @@ namespace TwentyOne
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Secrurity has been called! Get out of our casino.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your System Administrator.");
+                        return;
+                    }
+                    
                 }
                 game -= player;
-                Console.WriteLine("Thank you for playing!");
+                
+                
+                
             }
             Console.WriteLine("Feel free to come back and play at anytime.");
             Console.ReadLine();

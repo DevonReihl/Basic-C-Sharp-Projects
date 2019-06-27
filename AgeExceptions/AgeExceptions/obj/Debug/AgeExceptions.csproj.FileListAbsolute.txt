@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\AgeExceptions\AgeExceptions\bin\Debug\AgeExceptions.exe.config
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\AgeExceptions\AgeExceptions\bin\Debug\AgeExceptions.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\AgeExceptions\AgeExceptions\bin\Debug\AgeExceptions.pdb
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\AgeExceptions\AgeExceptions\obj\Debug\AgeExceptions.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\AgeExceptions\AgeExceptions\obj\Debug\AgeExceptions.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\AgeExceptions\AgeExceptions\obj\Debug\AgeExceptions.exe
+C:\Users\user\Desktop\TechAcademy\C#-.net\The-Tech-Academy-Basic-C-Sharp-Projects\AgeExceptions\AgeExceptions\obj\Debug\AgeExceptions.pdb
